@@ -1,16 +1,39 @@
-## Hi there 👋
+# BVJBWHEELCOUK
 
-<!--
-**bvjbwheelcouk/bvjbwheelcouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ENGINEERED FOR POWER.
 
-Here are some ideas to get you started:
+BVJBWHEELCOUK is a performance engine company focused on power, precision, reliability and next-generation propulsion technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## POWERTRAIN DIVISION
+
+**B1** — Performance Engine  
+**B6** — High-Output Engine  
+**BX** — Extreme Performance  
+**E1** — Electric Powertrain
+
+---
+
+## ENGINEERED AROUND
+
+- High-Performance Engines
+- Turbocharged Systems
+- Engine Components
+- Powertrain Engineering
+- Performance Development
+- Electric & Hybrid Technology
+
+---
+
+## OUR VISION
+
+To develop powerful and advanced propulsion systems engineered for the next generation of performance.
+
+---
+
+**BVJBWHEELCOUK**
+
+*Power. Precision. Performance.*
+
+`ENGINEERED FOR POWER.`
